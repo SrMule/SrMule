@@ -12,7 +12,16 @@ Llevo más de 7 años aprendiendo diferentes áreas de la informática. Actualme
 * 🤝  Estoy abierto a colaborar en cualquier tipo de proyecto.
 * ⚡  Me gusta el Counter Strike.
 
-### Habilidades
+<div align="center">
+  
+  ![Gato bailando](./dancingCat.gif)
+</div>
+
+<hr style="border: 0.5px solid #ddd; width: 50%;">
+
+<div id=header align=center>
+  <h3>Habilidades</h3>
+</div> 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,11 +29,17 @@ Llevo más de 7 años aprendiendo diferentes áreas de la informática. Actualme
   </a>
 </p>
 
-### Redes Sociales
+<hr style="border: 0.5px solid #ddd; width: 50%;">
+<div id=header align=center>
+  <h3>Redes Sociales</h3>
+</div> 
 
 <p align="center"> <a href="https://www.github.com/Srmule" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/eduardo-garcía-o" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Mis estadísticas
+<hr style="border: 0.5px solid #ddd; width: 50%;">
+<div id=header align=center>
+  <h3>Mis estadísticas</h3>
+</div> 
 
 <div align="center">
 <a href="http://www.github.com/Srmule"><img src="https://github-readme-stats.vercel.app/api?username=Srmule&show_icons=true&hide=issues,&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Srmule's GitHub stats" /></a>
