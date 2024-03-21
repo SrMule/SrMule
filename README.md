@@ -42,8 +42,8 @@ Llevo más de 7 años aprendiendo diferentes áreas de la informática. Actualme
 </div> 
 
 <div align="center">
-<a href="http://www.github.com/Srmule"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Srmule&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Srmule"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SrMule&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Srmule" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srmule&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Srmule" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrMule&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
