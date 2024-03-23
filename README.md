@@ -25,7 +25,7 @@ Llevo más de 7 años aprendiendo diferentes áreas de la informática. Actualme
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,nodejs,mysql,c,cpp,express,figma,firebase,git,github,latex,matlab,maven,npm,php,postman,react,regex,spring,tailwind,vite,androidstudio,unity,ubuntu,wordpress&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,nodejs,mysql,c,cpp,express,nestjs,figma,firebase,git,github,jest,matlab,maven,npm,php,postman,react,astro,spring,tailwind,vite,androidstudio,unity,ubuntu&perline=6" />
   </a>
 </p>
 
