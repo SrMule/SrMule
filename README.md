@@ -42,8 +42,19 @@ Llevo más de 7 años aprendiendo diferentes áreas de la informática. Actualme
 </div> 
 
 <div align="center">
-<a href="http://www.github.com/Srmule"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SrMule&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <div style="display: inline-block; vertical-align: top;">
+    <a href="https://github.com/Srmule">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=SrMule&theme=synthwave&border_radius=5&card_width=500" alt="GitHub Streak">
+    </a>
+  </div>
 
-<a href="https://github.com/Srmule" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrMule&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <div style="display: inline-block; vertical-align: top;">
+    <a href="https://github.com/Srmule">
+      <div style="background-color: #2a2139; border-radius: 8px; padding: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrMule&langs_count=10&title_color=ff6ac1&text_color=ffffff&icon_color=ff6ac1&bg_color=2a2139&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+      </div>
+    </a>
+  </div>
 </div>
+
 
