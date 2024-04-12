@@ -12,9 +12,10 @@ Llevo más de 7 años aprendiendo diferentes áreas de la informática. Actualme
 * 🤝  Estoy abierto a colaborar en cualquier tipo de proyecto.
 * ⚡  Me gusta el Counter Strike.
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   
-  ![Gato bailando](./dancingCat.gif)
+  <img src="./ryan-hello-world.jpg" alt="Gato bailando" width="300" height="300">
+  <img src="./dancingCat.gif" alt="Gato bailando">
 </div>
 
 <hr style="border: 0.5px solid #ddd; width: 50%;">
